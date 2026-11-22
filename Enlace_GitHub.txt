@@ -1,0 +1,8 @@
+REPOSITORIO GITHUB – BEAUTYMANAGER
+
+Proyecto: BeautyManager
+
+Evidencia: GA7-220501096-AA2-EV02 – Módulos de software codificados y probados.
+
+Enlace del repositorio:
+https://github.com/chikiscadena055-source/BeautyManager
