@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/NetBeansProjects/BeautyManager/web/principal.jsp</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/web/inicio/inicio.jsp</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/src/java/controller/acceso.java</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/src/java/modelo/EmpleadosDAO.java</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/src/java/modelo/ClientesDAO.java</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/src/java/controller/ClientesServlet.java</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/web/clientes/registrarCliente.jsp</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/src/java/modelo/CitasDAO.java</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/src/java/controller/CitasServlet.java</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/web/citas/registrarCita.jsp</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/web/citas/listarCitas.jsp</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/src/java/modelo/ServiciosDAO.java</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/src/java/controller/InicioServlet.java</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/src/java/modelo/EmpleadosVO.java</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/src/java/controller/RegistroEmpleadoServlet.java</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/web/registroEmpleado.jsp</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/src/java/modelo/ServicioVO.java</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/src/java/controller/RecuperarPasswordServlet.java</file>
+            <file>file:/C:/NetBeansProjects/BeautyManager/web/recuperarPassword.jsp</file>
+        </group>
+    </open-files>
+</project-private>
